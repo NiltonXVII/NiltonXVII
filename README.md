@@ -1,4 +1,4 @@
-### Olá, eu sou o Nilton 👋
+### Olá, eu sou o Nilton 
 
 Engenheiro de software full stack em Brasília, com atendimento remoto para todo o Brasil. Hoje atuo no Banco do Brasil e, pela **[Software Tech IA](https://softwaretech.ia.br)**, construo produtos digitais completos, da ideia ao sistema no ar.
 
